@@ -71,7 +71,7 @@ Ask yourselves lots of different questions to try to determine each goal. **And 
 
 ## Goal
 
-Create 2 rubrics as GitHub Issues attached to your `web-app` repository. Label both Issues with the “product” label.
+Create 2 rubrics as **GitHub Issues attached to your `web-app` repository.** Label both Issues with the “product” label. And “Pin” the issue: there’s a button near the bottom of the Issue’s screen’s righthand column.
 
 1. A rubric defining your success criteria for the UX component
 2. A rubric defining your success criteria for the coded app component
@@ -97,4 +97,7 @@ Here’s the table generating code you’d need to put into a GitHub Issue to ge
 
 ## Hand in
 
-Show the teacher both completed rubrics for marks.
+**Show the teacher both completed rubrics for marks.**
+
+But do make sure to put the 2 rubrics as *GitHub Issues attached to your `web-app` repository.* Label both Issues with the *“product” label*. And *“Pin” the issue*: there’s a button near the bottom of the Issue’s screen’s righthand column.
+
